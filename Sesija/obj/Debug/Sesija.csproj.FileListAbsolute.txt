@@ -1,0 +1,27 @@
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\bin\Debug\Sesija.dll
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\bin\Debug\Sesija.pdb
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\bin\Debug\Domen.dll
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\bin\Debug\Domen.pdb
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.dll
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\bin\Debug\Sesija.dll
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\bin\Debug\Sesija.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\bin\Debug\Domen.dll
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\bin\Debug\Domen.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.dll
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Sesija\obj\Debug\Sesija.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\obj\Debug\Sesija.dll
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\obj\Debug\Sesija.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\bin\Debug\Sesija.dll
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\bin\Debug\Sesija.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\bin\Debug\Domen.dll
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\bin\Debug\Domen.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Sesija\obj\Debug\Sesija.csproj.CopyComplete

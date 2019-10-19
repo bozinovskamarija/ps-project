@@ -1,0 +1,93 @@
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\bin\Debug\Klijent.exe
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\bin\Debug\Domen.dll
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\bin\Debug\Domen.pdb
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\obj\Debug\Klijent.exe
+C:\Users\Maca\Desktop\PS 2018\Binary\10. klip - ispit - Template\Template\Domen\Klijent\obj\Debug\Klijent.pdb
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Klijent.exe.config
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Klijent.exe
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Klijent.pdb
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Domen.dll
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Domen.pdb
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.exe
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.pdb
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmPrijavljivanje.resources
+D:\Desktop\PS 2018-19\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmGlavniMeni.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Klijent.exe.config
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Klijent.exe
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Klijent.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Domen.dll
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\bin\Debug\Domen.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmPrijavljivanje.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmGlavniMeni.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.exe
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmDodajRadnika.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmPretragaRadnika.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmDetaljiRadnika.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmDodajUgovorORadu.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmPretragaUgovoraORadu.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmUnosOJ.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmPretragaOJiRM.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski\Domen\Klijent\obj\Debug\Klijent.FrmDetaljiOJiRM.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\bin\Debug\Klijent.exe.config
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\bin\Debug\Klijent.exe
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\bin\Debug\Klijent.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\bin\Debug\Domen.dll
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\bin\Debug\Domen.pdb
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmDetaljiOJiRM.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmDetaljiRadnika.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmDodajRadnika.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmDodajUgovorORadu.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmPretragaOJiRM.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmUnosOJ.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmPretragaRadnika.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmPrijavljivanje.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmGlavniMeni.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.FrmPretragaUgovoraORadu.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.exe
+D:\Desktop\Seminarski - Marija Bozinovska\Seminarski-Marija Bozinovska - 39-13\Domen\Klijent\obj\Debug\Klijent.pdb
+D:\Desktop\Github\ps-project\Klijent\bin\Debug\Klijent.exe.config
+D:\Desktop\Github\ps-project\Klijent\bin\Debug\Klijent.exe
+D:\Desktop\Github\ps-project\Klijent\bin\Debug\Klijent.pdb
+D:\Desktop\Github\ps-project\Klijent\bin\Debug\Domen.dll
+D:\Desktop\Github\ps-project\Klijent\bin\Debug\Domen.pdb
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmDetaljiOJiRM.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmDetaljiRadnika.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmDodajRadnika.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmDodajUgovorORadu.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmPretragaOJiRM.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmUnosOJ.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmPretragaRadnika.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmPrijavljivanje.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmGlavniMeni.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.FrmPretragaUgovoraORadu.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.exe
+D:\Desktop\Github\ps-project\Klijent\obj\Debug\Klijent.pdb
